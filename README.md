@@ -105,40 +105,6 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 🤝 Collaboration avec équipe Data FNAC
 ```
 
----
-
-### 🌍 Redéploiement des Terres Rares en Europe | ULB Partnership
-> Stratégie de recyclage et développement minier pour l'indépendance européenne
-
-**🎯 Challenge :** Réduire la dépendance européenne aux importations chinoises  
-**💡 Solution :** Analyse économique du recyclage vs nouvelles mines  
-**📚 Compétences :** Market Research • Business Valuation • Strategic Analysis
-
-```
-🔬 Analyse technique et économique
-💰 Évaluation coûts-bénéfices
-🌱 Impact environnemental
-📊 Recommandations stratégiques
-```
-
----
-
-### 🏙️ Revitalisation Quartier Midi Bruxelles | Perspective Brussels
-> Stratégie de redynamisation commerciale d'un quartier en transformation
-
-**🎯 Mission :** Améliorer l'attractivité commerciale du quartier gare du Midi  
-**💡 Démarche :** Études terrain, interviews, analyse de données urbaines  
-**📚 Méthodologie :** Urban Planning • Marketing Strategy • Field Research
-
-```
-📍 Analyse géospatiale et flux
-👥 Enquêtes qualitatives résidents/commerçants
-💡 Plan d'action concret
-🎨 Recommandations branding territorial
-```
-
----
-
 ### 🔐 Serious Game Cybersécurité | Desjardins Bank (HEC Montréal)
 > Création d'un jeu de sensibilisation pour 40,000+ employés
 
@@ -195,8 +161,6 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 - Project Management
 - Supervised Learning
 
-**Mémoire :** *"Stratégie internationale chinoise à la lumière de ses acquisitions en Afrique"*
-
 </td>
 <td width="40%" valign="top">
 
@@ -204,7 +168,6 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 
 **HEC Montréal** 🇨🇦  
 *Dec 2023 - Mai 2024*  
-Triple accredited AACSB/EQUIS/AMBA
 - Cybersecurity project
 - SAP & Google Analytics
 - Bloomberg certification
@@ -265,9 +228,6 @@ Bachelor Business Engineering
 Je suis à la recherche d'opportunités où je pourrai **combiner mes compétences business et tech** :
 
 - 💼 **Stage ou Junior Position** en Data Science, Software Development, ou Product Management
-- 🚀 **Projets à impact** : FinTech, HealthTech, Sustainability, EdTech
-- 🌍 **Environnement international** : équipes multiculturelles, projets européens
-- 📈 **Croissance rapide** : startup ou scale-up avec mentalité agile
 
 ### 💪 Ce que j'apporte
 
@@ -297,26 +257,13 @@ journey
       Position Tech/Data: 5: Moi
 ```
 
----
-
-## 🌟 Fun Facts
-
-- 🌍 J'ai étudié dans **4 villes européennes** + Montréal
-- 📚 Mon mémoire analyse la **géopolitique chinoise en Afrique**
-- 🎮 J'ai créé un **Pac-Man 3D** avant de savoir debugger un segfault
-- 🔐 J'ai conçu un jeu de **cybersécurité** pour une banque de 40,000 employés
-- 🍺 J'ai fait une étude de marché pour une **brasserie espagnole** (en español!)
-- 💼 6 ans d'expérience en **logistics, admin & entrepreneurship** avant ma reconversion
-
----
-
 ## 📫 Me Contacter
 
 <div align="center">
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📍 Localisation |
 |:---------|:-----------|:----------|:----------------|
-| [votre.email@example.com](mailto:votre.email@example.com) | [Mon LinkedIn](https://linkedin.com/in/votre-profil) | [@ismaeljda](https://github.com/ismaeljda) | Bruxelles, BE 🇧🇪 |
+| [ismaelsall526@gmail.com](mailto:ismaelsall526@gmail.com) | [Mon LinkedIn]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/ismael-sall-8085a9243/)) | [@ismaeljda](https://github.com/ismaeljda) | Bruxelles, BE 🇧🇪 |
 
 ---
 
