@@ -73,98 +73,36 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 
 ---
 
-## 🏆 Projets Académiques & Professionnels
+## 🏆 Projets Phares
 
-### 🚀 Projets École 42
+<div align="center">
 
-### 🌐 Transcendence | École 19 (42)
-> Application web full-stack avec fonctionnalités temps réel
+### 🎓 École 42 - Common Core
 
-**🎯 Challenge :** Projet final de l'École 42 - créer une single-page application complète  
-**💡 Solution :** Architecture moderne avec backend NestJS et frontend React  
-**📚 Technologies :** React • NestJS • PostgreSQL • WebSockets • Docker
+| 🚀 Projet | 📝 Description | 🔧 Technologies | 🔗 Repo |
+|-----------|---------------|------------------|---------|
+| **[Transcendence](https://github.com/ismaeljda/transcendence)** | Application web full-stack avec temps réel & WebSockets | `React` `NestJS` `PostgreSQL` `Docker` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/transcendence) |
+| **[Webserv](https://github.com/ismaeljda/webserv)** | Serveur HTTP/1.1 from scratch conforme RFC 2616 | `C++98` `Network` `HTTP` `poll()` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/webserv) |
+| **[Minishell](https://github.com/ismaeljda/minishell)** | Shell Unix avec pipes, redirections & signaux | `C` `System Programming` `UNIX` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/minishell) |
 
-- 🎮 Application interactive en temps réel
-- 🔐 Authentification sécurisée (JWT + OAuth2)
-- 💬 Chat en temps réel avec WebSockets
-- 🎨 Interface responsive et moderne
-- 🐳 Déploiement containerisé avec Docker
+### 🤖 École 42 - Spécialisation IA
 
----
+| 🚀 Projet | 📝 Description | 🔧 Technologies | 🔗 Repo |
+|-----------|---------------|------------------|---------|
+| **[Total Perspective Vortex](https://github.com/ismaeljda/total-perspective-vortex)** | Classification d'activité cérébrale par ML | `Python` `Scikit-learn` `PCA` `SVM` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/total-perspective-vortex) |
+| **[Multilayer Perceptron](https://github.com/ismaeljda/multilayer-perceptron)** | Réseau de neurones from scratch pour classification | `Python` `NumPy` `Neural Networks` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/multilayer-perceptron) |
+| **[DSLR](https://github.com/ismaeljda/dslr)** | Implémentation d'algorithmes ML (logistic regression) | `Python` `Data Analysis` `Visualization` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/dslr) |
 
-### 🖥️ Webserv | École 19 (42)
-> Serveur HTTP/1.1 complet implémenté from scratch en C++
+### 🎯 Projets Data Science & Business
 
-**🎯 Challenge :** Comprendre les protocoles réseau au plus bas niveau  
-**💡 Solution :** Serveur HTTP conforme RFC 2616 avec I/O non-bloquant  
-**📚 Technologies :** C++98 • Network Programming • HTTP Protocol • RFC Compliance
+| 🚀 Projet | 📝 Description | 🔧 Technologies | 🔗 |
+|-----------|---------------|------------------|-----|
+| **[Emotions Classification CNN](https://github.com/ismaeljda/emotions-classification)** | Deep Learning pour reconnaissance d'émotions faciales | `Python` `TensorFlow` `CNN` `OpenCV` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/emotions-classification) |
+| **ML Forecasting FNAC** | Prédiction comportement clients (partenariat FNAC) | `Python` `Scikit-learn` `Pandas` | 🏢 Solvay |
 
-- 🔌 Gestion de connexions multiples avec poll()
-- 📤 Support upload/download de fichiers
-- 🔄 Méthodes HTTP (GET, POST, DELETE)
-- ⚙️ Configuration via fichier personnalisé
-- 🚀 Performance et gestion mémoire optimisées
+</div>
 
 ---
-
-### 🐚 Minishell | École 19 (42)
-> Shell Unix personnalisé avec gestion avancée des processus
-
-**🎯 Challenge :** Recréer un shell fonctionnel type bash  
-**💡 Solution :** Parser robuste, pipes, redirections et gestion des signaux  
-**📚 Technologies :** C • System Programming • UNIX System Calls • Signal Handling
-
-- 🔗 Pipes et redirections multiples (|, <, >, <<, >>)
-- 💾 Variables d'environnement et expansion
-- 🎛️ Builtins (cd, echo, export, unset, env, exit)
-- ⚡ Gestion des signaux (Ctrl+C, Ctrl+D, Ctrl+\)
-- 📝 Historique de commandes
-
----
-
-### 💼 Projets Business & Data Science
-
-### 📊 Machine Learning pour FNAC | Solvay Brussels School
-> Prédiction du comportement client basée sur les intérêts de lecture
-
-**🎯 Contexte :** Partenariat avec FNAC pour améliorer la recommandation personnalisée  
-**💡 Approche :** Modèles de supervised learning sur données clients réelles  
-**📚 Technologies :** Python • Scikit-learn • Pandas • Machine Learning
-
-- ✨ Segmentation client avancée
-- 🎯 Modèles prédictifs de cross-selling
-- 📈 Amélioration du taux de conversion
-- 🤝 Collaboration avec équipe Data FNAC
-
-### 🔐 Serious Game Cybersécurité | Desjardins Bank (HEC Montréal)
-> Création d'un jeu de sensibilisation pour 40,000+ employés
-
-**🎯 Objectif :** Former les employés aux risques cyber de manière ludique  
-**💡 Innovation :** Game design interactif avec scénarios réalistes  
-**📚 Stack :** Game Design • Cybersecurity Awareness • UX
-
-- 🎮 Gamification des formations
-- 🔒 Scénarios de phishing et social engineering
-- 📊 Tracking des performances d'apprentissage
-- 👥 Adoption massive en interne
-
----
-
-### 🎮 Pac-Man 3D | HEC Liège
-> Jeu vidéo complet développé en C# avec Unity Engine
-
-**🎯 Challenge :** Maîtriser le développement game avec Unity  
-**💡 Réalisation :** Jeu 3D jouable avec IA des fantômes  
-**📚 Technologies :** C# • Unity • 3D Graphics • AI Pathfinding
-
----
-
-### 📈 Simulation Trading Bloomberg | HEC Montréal
-> Portfolio management avec capital fictif de $100,000
-
-**🎯 Compétition :** Gestion active sur plateforme Bloomberg pendant 1 mois  
-**💡 Stratégie :** Analyse technique et fondamentale  
-**📚 Outils :** Bloomberg Terminal • Portfolio Theory • Financial Analysis
 
 ## 📊 GitHub Activity
 
@@ -192,7 +130,3 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 **🎯 Ouvert aux opportunités | Disponible immédiatement**
 
 ---
-
-<sub>⚡ *"J'ai survécu à des peer-evaluations à l'École 42 et à des présentations devant des C-levels... Je suis prêt pour n'importe quel code review!"* 😄</sub>
-
-</div>
