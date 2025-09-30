@@ -81,23 +81,23 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 
 | 🚀 Projet | 📝 Description | 🔧 Technologies | 🔗 Repo |
 |-----------|---------------|------------------|---------|
-| **[Transcendence](https://github.com/ismaeljda/transcendence)** | Application web full-stack avec temps réel & WebSockets | `React` `NestJS` `PostgreSQL` `Docker` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/transcendence) |
-| **[Webserv](https://github.com/ismaeljda/webserv)** | Serveur HTTP/1.1 from scratch conforme RFC 2616 | `C++98` `Network` `HTTP` `poll()` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/webserv) |
+| **[Transcendence](https://github.com/ismaeljda/transcendence)** | Application web full-stack avec temps réel & WebSockets | `React` `NestJS` `PostgreSQL` `Docker` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/Zoroki110/ft_transcendence) |
+| **[Webserv](https://github.com/ismaeljda/webserv)** | Serveur HTTP/1.1 from scratch conforme RFC 2616 | `C++98` `Network` `HTTP` `poll()` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/WebServ) |
 | **[Minishell](https://github.com/ismaeljda/minishell)** | Shell Unix avec pipes, redirections & signaux | `C` `System Programming` `UNIX` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/minishell) |
 
 ### 🤖 École 42 - Spécialisation IA
 
 | 🚀 Projet | 📝 Description | 🔧 Technologies | 🔗 Repo |
 |-----------|---------------|------------------|---------|
-| **[Total Perspective Vortex](https://github.com/ismaeljda/total-perspective-vortex)** | Classification d'activité cérébrale par ML | `Python` `Scikit-learn` `PCA` `SVM` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/total-perspective-vortex) |
-| **[Multilayer Perceptron](https://github.com/ismaeljda/multilayer-perceptron)** | Réseau de neurones from scratch pour classification | `Python` `NumPy` `Neural Networks` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/multilayer-perceptron) |
-| **[DSLR](https://github.com/ismaeljda/dslr)** | Implémentation d'algorithmes ML (logistic regression) | `Python` `Data Analysis` `Visualization` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/dslr) |
+| **[Total Perspective Vortex](https://github.com/ismaeljda/total-perspective-vortex)** | Classification d'activité cérébrale par ML | `Python` `Scikit-learn` `PCA` `SVM` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/total_perspective_vortex) |
+| **[Multilayer Perceptron](https://github.com/ismaeljda/multilayer-perceptron)** | Réseau de neurones from scratch pour classification | `Python` `NumPy` `Neural Networks` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/Multi_layer_perceptron) |
+| **[DSLR](https://github.com/ismaeljda/dslr)** | Implémentation d'algorithmes ML (logistic regression) | `Python` `Data Analysis` `Visualization` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/DSLR) |
 
 ### 🎯 Projets Data Science & Business
 
 | 🚀 Projet | 📝 Description | 🔧 Technologies | 🔗 |
 |-----------|---------------|------------------|-----|
-| **[Emotions Classification CNN](https://github.com/ismaeljda/emotions-classification)** | Deep Learning pour reconnaissance d'émotions faciales | `Python` `TensorFlow` `CNN` `OpenCV` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/emotions-classification) |
+| **[Emotions Classification CNN](https://github.com/ismaeljda/emotions-classification)** | Deep Learning pour reconnaissance d'émotions faciales | `Python` `TensorFlow` `CNN` `OpenCV` | [![GitHub](https://img.shields.io/badge/Voir-181717?style=flat&logo=github)](https://github.com/ismaeljda/emotions_detections) |
 | **ML Forecasting FNAC** | Prédiction comportement clients (partenariat FNAC) | `Python` `Scikit-learn` `Pandas` | 🏢 Solvay |
 
 </div>
