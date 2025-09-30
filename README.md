@@ -166,83 +166,6 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 **💡 Stratégie :** Analyse technique et fondamentale  
 **📚 Outils :** Bloomberg Terminal • Portfolio Theory • Financial Analysis
 
----
-
-## 🎓 Formations & Certifications
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🎯 Formation Actuelle
-
-**École 19 (42 Network)** | Oct 2024 - Oct 2025  
-*Peer-to-peer learning, projets systèmes*
-- Programmation système (C/C++)
-- Algorithmes & structures de données
-- Network programming
-- Architecture logicielle
-
-**Solvay Brussels School** | Sept 2022 - Jan 2025  
-*Master in Business Engineering - Data Science*  
-🏆 **Niveau : Cum Laude**
-- Machine Learning & AI
-- Business Strategy & Valuation
-- Project Management
-- Supervised Learning
-
-**Mémoire :** *"Stratégie internationale chinoise à la lumière de ses acquisitions en Afrique"*
-
-</td>
-<td width="40%" valign="top">
-
-### 🌍 Expériences Internationales
-
-**HEC Montréal** 🇨🇦  
-*Dec 2023 - Mai 2024*  
-Triple accredited AACSB/EQUIS/AMBA
-- Cybersecurity project
-- SAP & Google Analytics
-- Bloomberg certification
-- Portfolio management
-
-**Universidad de Murcia** 🇪🇸  
-*Sept 2021 - Fév 2022*  
-Full Spanish immersion
-- Marketing Research
-- Business Strategy  
-- HR Management
-- Market study for Estrella beer
-
-**HEC Liège** 🇧🇪  
-*2019 - Juin 2022*  
-Bachelor Business Engineering
-- Web Development
-- Applied Physics
-- OOP Development
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Compétences Transversales
-
-<div align="center">
-
-| 💻 Technique | 📊 Data & Business | 🧠 Soft Skills | 🌍 Langues |
-|:-------------|:-------------------|:---------------|:-----------|
-| System Programming | Machine Learning | Problem Solving | 🇫🇷 Français (natif) |
-| Web Development | Data Analytics | Project Management | 🇬🇧 English (B2) |
-| Algorithm Design | Business Valuation | Team Leadership | 🇪🇸 Español (fluent) |
-| DevOps & Docker | Market Research | Adaptability | 🇳🇱 Nederlands (basic) |
-| Version Control | Strategic Planning | Critical Thinking | |
-
-</div>
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -253,23 +176,6 @@ Bachelor Business Engineering
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ismaeljda&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
-
----
-
-## 🎯 Ce que je recherche
-
-Je suis à la recherche d'opportunités où je pourrai **combiner mes compétences business et tech** :
-
-- 💼 **Stage ou Junior Position** en Data Science, Software Development, ou Product Management
-
-### 💪 Ce que j'apporte
-
-✅ **Vision stratégique** : Je comprends les enjeux business derrière le code  
-✅ **Rigueur analytique** : Formé à la fois en économie quantitative et en algo  
-✅ **Adaptabilité** : 3 pays, 4 écoles, multiples domaines maîtrisés  
-✅ **Communication** : Capable de parler aux business ET aux devs  
-✅ **Expérience projet** : Collaborations avec FNAC, ULB, Desjardins, Perspective Brussels
-
 
 ## 📫 Me Contacter
 
