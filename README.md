@@ -15,7 +15,7 @@
 
 ## 🚀 À propos de moi
 
-**Ingénieur de Gestion** passé du côté obscur du code 💻
+**Ingénieur de Gestion et data scientist** 💻
 
 Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir complété un **Master en Business Engineering avec spécialisation Data Science** à la Solvay Brussels School. Mon parcours unique combine vision stratégique business et compétences techniques solides.
 
@@ -37,8 +37,6 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 - 🔄 **Reconversion tech** assumée avec une valeur ajoutée business
 - 🤝 **Gestion de projet** : Collaborations terrain avec entreprises et institutions
 
-> **"Je ne code pas juste pour coder, je code pour résoudre de vrais problèmes business."**
-
 ---
 
 ## 🛠️ Stack Technique
@@ -56,7 +54,6 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 
 ### 📊 Data Science & Business Tools
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -138,36 +135,6 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 - 🎯 Modèles prédictifs de cross-selling
 - 📈 Amélioration du taux de conversion
 - 🤝 Collaboration avec équipe Data FNAC
-
----
-
-### 🌍 Redéploiement des Terres Rares en Europe | ULB Partnership
-> Stratégie de recyclage et développement minier pour l'indépendance européenne
-
-**🎯 Challenge :** Réduire la dépendance européenne aux importations chinoises  
-**💡 Solution :** Analyse économique du recyclage vs nouvelles mines  
-**📚 Compétences :** Market Research • Business Valuation • Strategic Analysis
-
-- 🔬 Analyse technique et économique
-- 💰 Évaluation coûts-bénéfices
-- 🌱 Impact environnemental
-- 📊 Recommandations stratégiques
-
----
-
-### 🏙️ Revitalisation Quartier Midi Bruxelles | Perspective Brussels
-> Stratégie de redynamisation commerciale d'un quartier en transformation
-
-**🎯 Mission :** Améliorer l'attractivité commerciale du quartier gare du Midi  
-**💡 Démarche :** Études terrain, interviews, analyse de données urbaines  
-**📚 Méthodologie :** Urban Planning • Marketing Strategy • Field Research
-
-- 📍 Analyse géospatiale et flux
-- 👥 Enquêtes qualitatives résidents/commerçants
-- 💡 Plan d'action concret
-- 🎨 Recommandations branding territorial
-
----
 
 ### 🔐 Serious Game Cybersécurité | Desjardins Bank (HEC Montréal)
 > Création d'un jeu de sensibilisation pour 40,000+ employés
@@ -294,9 +261,6 @@ Bachelor Business Engineering
 Je suis à la recherche d'opportunités où je pourrai **combiner mes compétences business et tech** :
 
 - 💼 **Stage ou Junior Position** en Data Science, Software Development, ou Product Management
-- 🚀 **Projets à impact** : FinTech, HealthTech, Sustainability, EdTech
-- 🌍 **Environnement international** : équipes multiculturelles, projets européens
-- 📈 **Croissance rapide** : startup ou scale-up avec mentalité agile
 
 ### 💪 Ce que j'apporte
 
@@ -306,18 +270,6 @@ Je suis à la recherche d'opportunités où je pourrai **combiner mes compétenc
 ✅ **Communication** : Capable de parler aux business ET aux devs  
 ✅ **Expérience projet** : Collaborations avec FNAC, ULB, Desjardins, Perspective Brussels
 
----
-
-## 🌟 Fun Facts
-
-- 🌍 J'ai étudié dans **4 villes européennes** + Montréal
-- 📚 Mon mémoire analyse la **géopolitique chinoise en Afrique**
-- 🎮 J'ai créé un **Pac-Man 3D** avant de savoir debugger un segfault
-- 🔐 J'ai conçu un jeu de **cybersécurité** pour une banque de 40,000 employés
-- 🍺 J'ai fait une étude de marché pour une **brasserie espagnole** (en español!)
-- 💼 6 ans d'expérience en **logistics, admin & entrepreneurship** avant ma reconversion
-
----
 
 ## 📫 Me Contacter
 
