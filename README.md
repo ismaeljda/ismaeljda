@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Business+Engineer+%7C+Data+Science+Specialist;From+Economics+to+Code+%7C+École+19+(42);Building+bridges+between+business+%26+tech;Erasmus+%7C+Montréal+🇨🇦+%26+Murcia+🇪🇸)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-sall-8085a9243/)
 [![GitHub](https://img.shields.io/badge/GitHub-ismaeljda-181717?style=flat&logo=github&logoColor=white)](https://github.com/ismaeljda)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ismaeljda&color=00D9FF&style=flat)
@@ -13,46 +13,31 @@
 
 ---
 
-## 🎯 Mon Parcours Unique
+## 🚀 À propos de moi
 
-```python
-class Developer:
-    def __init__(self):
-        self.nom = "Ismael"
-        self.localisation = "Bruxelles, Belgique 🇧🇪"
-        self.parcours = "Business Engineering → Code"
-        self.status = "🚀 En reconversion | École 19 (42 Network)"
-        
-    @property
-    def formation(self):
-        return {
-            "actuel": ["École 19 (42) - Computer Science", 
-                      "Solvay Brussels School - M.Sc. Business Engineering (Data Science)"],
-            "international": ["HEC Montréal 🇨🇦 (Triple accredited AACSB/EQUIS/AMBA)",
-                            "Universidad de Murcia 🇪🇸 (Full Spanish immersion)"],
-            "bachelor": "HEC Liège - B.Sc. Business Engineering"
-        }
-    
-    @property
-    def super_pouvoir(self):
-        return "Transformer des problèmes business en solutions techniques élégantes"
-    
-    def __str__(self):
-        return "Business mind meets coding hands 🧠💻"
+**Ingénieur de Gestion** passé du côté obscur du code 💻
 
-ismael = Developer()
-print(ismael)  # Business mind meets coding hands 🧠💻
+Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir complété un **Master en Business Engineering avec spécialisation Data Science** à la Solvay Brussels School. Mon parcours unique combine vision stratégique business et compétences techniques solides.
+
+### 🎯 Mon profil en bref
+
+```
+🎓 Formation   : Solvay Brussels (Data Science) + École 19 (42 Network)
+🌍 Expérience  : Montréal 🇨🇦 | Murcia 🇪🇸 | Bruxelles 🇧🇪
+💼 Background  : 6 ans en logistics, admin & entrepreneurship
+🔬 Spécialité  : Là où le business rencontre le code
+💡 Passion     : Résoudre des problèmes complexes avec des solutions élégantes
 ```
 
-### 💡 Ce qui me rend unique
+### 💪 Ce qui me rend unique
 
-- 🎓 **Double casquette** : Formation Business Engineering (Solvay) + Computer Science (École 42)
-- 🌍 **Vision internationale** : Erasmus à Montréal (HEC) et Murcie - 3 pays, 3 cultures
-- 📊 **Data Science** : Machine learning, forecasting, analytics appliqués au business
-- 🔄 **Reconversion assumée** : De l'économie au code avec une vision stratégique intacte
-- 🤝 **Expérience terrain** : 6 ans en logistics, admin, entrepreneurship
+- 🎯 **Double casquette** : Vision business + compétences techniques (C/C++, Python, ML)
+- 🌍 **Perspective internationale** : 3 pays, 4 universités, expériences Erasmus
+- 📊 **Data Science appliquée** : Projets réels avec FNAC, ULB, Desjardins, Perspective Brussels
+- 🔄 **Reconversion tech** assumée avec une valeur ajoutée business
+- 🤝 **Gestion de projet** : Collaborations terrain avec entreprises et institutions
 
-> *"Je ne code pas juste pour coder, je code pour résoudre des vrais problèmes business."*
+> **"Je ne code pas juste pour coder, je code pour résoudre de vrais problèmes business."**
 
 ---
 
@@ -67,6 +52,7 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Science & Business Tools
 
@@ -82,6 +68,7 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -91,6 +78,55 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 
 ## 🏆 Projets Académiques & Professionnels
 
+### 🚀 Projets École 42
+
+### 🌐 Transcendence | École 19 (42)
+> Application web full-stack avec fonctionnalités temps réel
+
+**🎯 Challenge :** Projet final de l'École 42 - créer une single-page application complète  
+**💡 Solution :** Architecture moderne avec backend NestJS et frontend React  
+**📚 Technologies :** React • NestJS • PostgreSQL • WebSockets • Docker
+
+- 🎮 Application interactive en temps réel
+- 🔐 Authentification sécurisée (JWT + OAuth2)
+- 💬 Chat en temps réel avec WebSockets
+- 🎨 Interface responsive et moderne
+- 🐳 Déploiement containerisé avec Docker
+
+---
+
+### 🖥️ Webserv | École 19 (42)
+> Serveur HTTP/1.1 complet implémenté from scratch en C++
+
+**🎯 Challenge :** Comprendre les protocoles réseau au plus bas niveau  
+**💡 Solution :** Serveur HTTP conforme RFC 2616 avec I/O non-bloquant  
+**📚 Technologies :** C++98 • Network Programming • HTTP Protocol • RFC Compliance
+
+- 🔌 Gestion de connexions multiples avec poll()
+- 📤 Support upload/download de fichiers
+- 🔄 Méthodes HTTP (GET, POST, DELETE)
+- ⚙️ Configuration via fichier personnalisé
+- 🚀 Performance et gestion mémoire optimisées
+
+---
+
+### 🐚 Minishell | École 19 (42)
+> Shell Unix personnalisé avec gestion avancée des processus
+
+**🎯 Challenge :** Recréer un shell fonctionnel type bash  
+**💡 Solution :** Parser robuste, pipes, redirections et gestion des signaux  
+**📚 Technologies :** C • System Programming • UNIX System Calls • Signal Handling
+
+- 🔗 Pipes et redirections multiples (|, <, >, <<, >>)
+- 💾 Variables d'environnement et expansion
+- 🎛️ Builtins (cd, echo, export, unset, env, exit)
+- ⚡ Gestion des signaux (Ctrl+C, Ctrl+D, Ctrl+\)
+- 📝 Historique de commandes
+
+---
+
+### 💼 Projets Business & Data Science
+
 ### 📊 Machine Learning pour FNAC | Solvay Brussels School
 > Prédiction du comportement client basée sur les intérêts de lecture
 
@@ -98,12 +134,40 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 **💡 Approche :** Modèles de supervised learning sur données clients réelles  
 **📚 Technologies :** Python • Scikit-learn • Pandas • Machine Learning
 
-```
-✨ Segmentation client avancée
-🎯 Modèles prédictifs de cross-selling
-📈 Amélioration du taux de conversion
-🤝 Collaboration avec équipe Data FNAC
-```
+- ✨ Segmentation client avancée
+- 🎯 Modèles prédictifs de cross-selling
+- 📈 Amélioration du taux de conversion
+- 🤝 Collaboration avec équipe Data FNAC
+
+---
+
+### 🌍 Redéploiement des Terres Rares en Europe | ULB Partnership
+> Stratégie de recyclage et développement minier pour l'indépendance européenne
+
+**🎯 Challenge :** Réduire la dépendance européenne aux importations chinoises  
+**💡 Solution :** Analyse économique du recyclage vs nouvelles mines  
+**📚 Compétences :** Market Research • Business Valuation • Strategic Analysis
+
+- 🔬 Analyse technique et économique
+- 💰 Évaluation coûts-bénéfices
+- 🌱 Impact environnemental
+- 📊 Recommandations stratégiques
+
+---
+
+### 🏙️ Revitalisation Quartier Midi Bruxelles | Perspective Brussels
+> Stratégie de redynamisation commerciale d'un quartier en transformation
+
+**🎯 Mission :** Améliorer l'attractivité commerciale du quartier gare du Midi  
+**💡 Démarche :** Études terrain, interviews, analyse de données urbaines  
+**📚 Méthodologie :** Urban Planning • Marketing Strategy • Field Research
+
+- 📍 Analyse géospatiale et flux
+- 👥 Enquêtes qualitatives résidents/commerçants
+- 💡 Plan d'action concret
+- 🎨 Recommandations branding territorial
+
+---
 
 ### 🔐 Serious Game Cybersécurité | Desjardins Bank (HEC Montréal)
 > Création d'un jeu de sensibilisation pour 40,000+ employés
@@ -112,12 +176,10 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 **💡 Innovation :** Game design interactif avec scénarios réalistes  
 **📚 Stack :** Game Design • Cybersecurity Awareness • UX
 
-```
-🎮 Gamification des formations
-🔒 Scénarios de phishing et social engineering
-📊 Tracking des performances d'apprentissage
-👥 Adoption massive en interne
-```
+- 🎮 Gamification des formations
+- 🔒 Scénarios de phishing et social engineering
+- 📊 Tracking des performances d'apprentissage
+- 👥 Adoption massive en interne
 
 ---
 
@@ -133,9 +195,9 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 ### 📈 Simulation Trading Bloomberg | HEC Montréal
 > Portfolio management avec capital fictif de $100,000
 
-**🎯 Compétition :** Gestion active sur plateforme Bloomberg  
+**🎯 Compétition :** Gestion active sur plateforme Bloomberg pendant 1 mois  
 **💡 Stratégie :** Analyse technique et fondamentale  
-**📚 Outils :** Bloomberg Terminal • Portfolio Theory
+**📚 Outils :** Bloomberg Terminal • Portfolio Theory • Financial Analysis
 
 ---
 
@@ -146,6 +208,7 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 <td width="60%" valign="top">
 
 ### 🎯 Formation Actuelle
+
 **École 19 (42 Network)** | Oct 2024 - Oct 2025  
 *Peer-to-peer learning, projets systèmes*
 - Programmation système (C/C++)
@@ -161,6 +224,8 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 - Project Management
 - Supervised Learning
 
+**Mémoire :** *"Stratégie internationale chinoise à la lumière de ses acquisitions en Afrique"*
+
 </td>
 <td width="40%" valign="top">
 
@@ -168,6 +233,7 @@ print(ismael)  # Business mind meets coding hands 🧠💻
 
 **HEC Montréal** 🇨🇦  
 *Dec 2023 - Mai 2024*  
+Triple accredited AACSB/EQUIS/AMBA
 - Cybersecurity project
 - SAP & Google Analytics
 - Bloomberg certification
@@ -228,6 +294,9 @@ Bachelor Business Engineering
 Je suis à la recherche d'opportunités où je pourrai **combiner mes compétences business et tech** :
 
 - 💼 **Stage ou Junior Position** en Data Science, Software Development, ou Product Management
+- 🚀 **Projets à impact** : FinTech, HealthTech, Sustainability, EdTech
+- 🌍 **Environnement international** : équipes multiculturelles, projets européens
+- 📈 **Croissance rapide** : startup ou scale-up avec mentalité agile
 
 ### 💪 Ce que j'apporte
 
@@ -239,23 +308,16 @@ Je suis à la recherche d'opportunités où je pourrai **combiner mes compétenc
 
 ---
 
-## 📈 Mon Parcours en Graphique
+## 🌟 Fun Facts
 
-```mermaid
-journey
-    title Mon Évolution Professionnelle
-    section Études
-      HEC Liège (Business): 5: Moi
-      Erasmus Murcia 🇪🇸: 5: Moi
-      HEC Montréal 🇨🇦: 5: Moi
-      Solvay (Data Science): 5: Moi
-    section Reconversion
-      École 19 (42): 5: Moi
-      Projets C/C++: 4: Moi
-      Full-Stack Dev: 3: Moi
-    section Futur
-      Position Tech/Data: 5: Moi
-```
+- 🌍 J'ai étudié dans **4 villes européennes** + Montréal
+- 📚 Mon mémoire analyse la **géopolitique chinoise en Afrique**
+- 🎮 J'ai créé un **Pac-Man 3D** avant de savoir debugger un segfault
+- 🔐 J'ai conçu un jeu de **cybersécurité** pour une banque de 40,000 employés
+- 🍺 J'ai fait une étude de marché pour une **brasserie espagnole** (en español!)
+- 💼 6 ans d'expérience en **logistics, admin & entrepreneurship** avant ma reconversion
+
+---
 
 ## 📫 Me Contacter
 
@@ -263,7 +325,7 @@ journey
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📍 Localisation |
 |:---------|:-----------|:----------|:----------------|
-| [ismaelsall526@gmail.com](mailto:ismaelsall526@gmail.com) | [Mon LinkedIn]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/ismael-sall-8085a9243/)) | [@ismaeljda](https://github.com/ismaeljda) | Bruxelles, BE 🇧🇪 |
+| [votre.email@example.com](mailto:votre.email@example.com) | [Ismael Sall](https://www.linkedin.com/in/ismael-sall-8085a9243/) | [@ismaeljda](https://github.com/ismaeljda) | Bruxelles, BE 🇧🇪 |
 
 ---
 
