@@ -121,7 +121,7 @@ Je suis actuellement étudiant à l'**École 19 (réseau 42)** après avoir comp
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📍 Localisation |
 |:---------|:-----------|:----------|:----------------|
-| [votre.email@example.com](mailto:votre.email@example.com) | [Ismael Sall](https://www.linkedin.com/in/ismael-sall-8085a9243/) | [@ismaeljda](https://github.com/ismaeljda) | Bruxelles, BE 🇧🇪 |
+| [ismaelsall526@gmail.com](mailto:ismaelsall526@gmail.com) | [Ismael Sall](https://www.linkedin.com/in/ismael-sall-8085a9243/) | [@ismaeljda](https://github.com/ismaeljda) | Bruxelles, BE 🇧🇪 |
 
 ---
 
